@@ -1,0 +1,17 @@
+{
+  "name": "hlchrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add": "^2.0.6",
+    "child_process": "^1.0.2",
+    "chrome-remote-interface": "^0.23.2",
+    "lighthouse": "^2.1.0"
+  }
+}
